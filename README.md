@@ -125,3 +125,13 @@ python deduper.py ./photos -v
 Made with ❤️ by QQuantity
 
 </div>
+
+---
+
+## 🎯 快速使用指南
+
+1. 安装依赖：```bash\npip install -r requirements.txt```
+
+2. 扫描照片文件夹：```bash\npython deduper.py ./your-photos -o report.md```
+
+3. 查看报告，确认后手动删除重复照片
